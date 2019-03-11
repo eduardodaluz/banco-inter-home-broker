@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  Prevents Inter Bank's Home Broker to close session.
 // @author       Carimbador
+// @license      MIT Licence         
 // @match        https://home-broker.bancointer.com.br/hbnet2/hbweb2/Default.aspx
 // @grant        none
 // ==/UserScript==
