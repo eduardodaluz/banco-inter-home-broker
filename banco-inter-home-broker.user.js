@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Banco Inter Home Broker
-// @namespace    http://devdevdev.dev/
+// @namespace    https://github.com/eduardodaluz/banco-inter-home-broker
 // @version      0.1
 // @description  Prevents Inter Bank's Home Broker to close session.
 // @author       Carimbador
