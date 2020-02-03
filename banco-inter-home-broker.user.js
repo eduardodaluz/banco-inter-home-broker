@@ -35,5 +35,7 @@
         );
 
         document.dispatchEvent(mouseMoveEvent)
+        
+        document.getElementById('Ifrm-dq1').contentWindow.location.reload();
     }, 10000)
 })();
