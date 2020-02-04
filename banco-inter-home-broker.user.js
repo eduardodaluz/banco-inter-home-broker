@@ -34,8 +34,11 @@
             null // relatedTarget : Only used with some event types (e.g. mouseover and mouseout). In other cases, pass null.
         );
 
-        document.dispatchEvent(mouseMoveEvent)
+        document.dispatchEvent(mouseMoveEvent);
         
-        document.getElementById('Ifrm-dq1').contentWindow.location.reload();
+        
     }, 10000)
+    setInterval(function() {
+        document.getElementById('Ifrm-dq1').contentWindow.location.reload();
+    }, 120000)
 })();
